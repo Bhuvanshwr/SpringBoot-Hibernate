@@ -1,0 +1,1 @@
+insert into Employee (name,email) values('name','valu4re');
